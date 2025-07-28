@@ -1,0 +1,195 @@
+.message-card {
+  background-color: rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.message-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.message-content {
+  max-width: 800px;
+  text-align: center;
+  padding: 24px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+  color: #010912;
+  line-height: 1.6;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.content-image {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 350px;
+  display: block;
+  height: auto;
+}
+//Rios Cali
+.cartografia-title-rios {
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+
+  /* Opcional: estilos adicionales */
+  font-size: 1.5rem;
+  color: #010912;
+  /* Color azul de Vuetify */
+  padding: 16px 0;
+}
+
+.rios-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.rio-main-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a237e;
+  margin-bottom: 2rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.title-icon {
+  font-size: 2.5rem;
+}
+
+.rios-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.rio-item {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: #f5f9ff;
+  border-left: 4px solid #2196f3;
+  transition: all 0.3s ease;
+}
+
+.rio-item.featured {
+  background: #e3f2fd;
+  border-left: 4px solid #ff9800;
+}
+
+.rio-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.rio-name {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #0d47a1;
+  margin-bottom: 0.5rem;
+}
+
+.rio-description {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #424242;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .rio-main-title {
+    font-size: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .title-icon {
+    font-size: 2rem;
+  }
+
+  .rio-name {
+    font-size: 1.3rem;
+  }
+
+  .rio-description {
+    font-size: 1rem;
+  }
+}
+
+//CartografiaPage
+
+.message-card {
+  background-color: rgba(0, 0, 0, 0.05); // Fondo ligeramente oscurecido
+  margin-bottom: 12px;
+}
+
+.cartografia-title {
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+
+  /* Opcional: estilos adicionales */
+  font-size: 3.5rem;
+  color: #010912;
+  /* Color azul de Vuetify */
+  padding: 16px 0;
+}
+
+.filter {
+  width: 750px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-radius: 10px;
+  overflow: hidden;
+
+  .item {
+    padding: 1rem 0.5rem;
+    background-color: var(--background-card);
+    text-align: center;
+    cursor: pointer;
+
+    &:hover {
+      color: var(--text-orange);
+    }
+  }
+}
+
+//mensaje imagenes
+.message-row {
+  width: 100%;
+  margin: 0 auto;
+  padding: 16px 0;
+}
+
+.message-title {
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  color: #010912;
+  /* Mantiene la misma paleta de colores */
+  padding: 16px 0;
+  /* Efecto hover similar al de .filter .item */
+  transition: color 0.3s ease;
+  cursor: default;
+  /* O pointer si quieres que sea clickeable */
+
+  &:hover {
+    color: var(--text-orange);
+    /* Mantiene la consistencia con tu diseño */
+  }
+}
