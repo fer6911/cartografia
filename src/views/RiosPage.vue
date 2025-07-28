@@ -41,7 +41,7 @@
                         y recorre zonas urbanas y turísticas. Es conocido por su belleza, pero ha sufrido contaminación
                         por actividades humanas.
                         <br />
-                        <a href="https://es.wikipedia.org/wiki/R%C3%ADo_Cali " target="_blank" rel="noopener noreferrer"
+                        <a href="https://es.wikipedia.org/wiki/R%C3%ADo_Cali" target="_blank" rel="noopener noreferrer"
                           class="podcast-button">
                           Mas informacion sobre el Rio Cali
                         </a>
@@ -56,8 +56,8 @@
                         residenciales y comerciales. Está expuesto a contaminación, pero es importante para el
                         equilibrio hídrico del sector.
                       </p>
-                      <a href="https://www.alltrails.com/poi/colombia/valle-del‑cauca/cali/rio‑melendez" target="_blank"
-                        rel="noopener noreferrer" class="podcast-button">
+                      <a href="https://es.wikipedia.org/wiki/Río_Menéndez" target="_blank" rel="noopener noreferrer"
+                        class="podcast-button">
                         Mas informacion sobre el Rio Melendes
                       </a>
                     </div>
@@ -70,8 +70,8 @@
                         también en la zona montañosa. Hoy en día presenta problemas de contaminación y reducción de
                         caudal.
                       </p>
-                      <a href="https://www.cali.gov.co/dagma/publicaciones/166565/reserva‑ecologica‑distrital‑cuenca‑media‑del‑rio‑lili"
-                        target="_blank" rel="noopener noreferrer" class="podcast-button">
+                      <a href="https://es.wikipedia.org/wiki/Río_Cali" target="_blank" rel="noopener noreferrer"
+                        class="podcast-button">
                         Mas informacion sobre el Rio Lili
                       </a>
                     </div>
@@ -83,7 +83,7 @@
                         Es uno de los ríos más limpios de Cali. Se encuentra al sur y es muy visitado por familias para
                         actividades recreativas. Su agua fría y cristalina nace en los Farallones de Cali.
                       </p>
-                      <a href="https://es.wikipedia.org/wiki/R%C3%ADo_Pance" target="_blank" rel="noopener noreferrer"
+                      <a href="https://es.wikipedia.org/wiki/Río_Pance" target="_blank" rel="noopener noreferrer"
                         class="podcast-button">
                         Mas informacion sobre el Rio Pance
                       </a>
@@ -96,8 +96,8 @@
                         Este río nace en el occidente de Cali y fluye hacia el norte. Atraviesa zonas como Aguacatal y
                         Terrón Colorado. Es menos conocido, pero importante para la cuenca del río Cali.
                       </p>
-                      <a href="https://salvemosnuestraaguacaleos.wordpress.com/rio‑aguacatal " target="_blank"
-                        rel="noopener noreferrer" class="podcast-button">
+                      <a href="https://es.wikipedia.org/wiki/Archivo:Río_Cali_recibe_al_río_Aguacatal.jpg"
+                        target="_blank" rel="noopener noreferrer" class="podcast-button">
                         Mas informacion sobre el Rio Aguacatal
                       </a>
                     </div>
@@ -109,7 +109,7 @@
                         Es un río urbano que cruza zonas densamente pobladas. Nace en la zona alta de los Farallones y
                         llega hasta el sector de Siloé. Está bastante contaminado por aguas residuales.
                       </p>
-                      <a href="https://occidente.co/cali/canaveralejo‑el‑rio‑que‑muere‑al‑pasar‑por‑cali"
+                      <a href="https://respetoculturahidrografiadecali.blogspot.com/2013/10/rio-canaveralejo-recuerdos-de-un-pasado.html"
                         target="_blank" rel="noopener noreferrer" class="podcast-button">
                         Mas informacion sobre el Río Cañaveralejo
                       </a>
