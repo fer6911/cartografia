@@ -56,8 +56,8 @@
                         residenciales y comerciales. Está expuesto a contaminación, pero es importante para el
                         equilibrio hídrico del sector.
                       </p>
-                      <a href="https://es.wikipedia.org/wiki/Río_Menéndez" target="_blank" rel="noopener noreferrer"
-                        class="podcast-button">
+                      <a href="https://www.cali.gov.co/aplicaciones/dagma/documentos/a_f_rio_melendez.pdf"
+                        target="_blank" rel="noopener noreferrer" class="podcast-button">
                         Mas informacion sobre el Rio Melendes
                       </a>
                     </div>
@@ -96,8 +96,8 @@
                         Este río nace en el occidente de Cali y fluye hacia el norte. Atraviesa zonas como Aguacatal y
                         Terrón Colorado. Es menos conocido, pero importante para la cuenca del río Cali.
                       </p>
-                      <a href="https://es.wikipedia.org/wiki/Archivo:Río_Cali_recibe_al_río_Aguacatal.jpg"
-                        target="_blank" rel="noopener noreferrer" class="podcast-button">
+                      <a href="https://prezi.com/p/ev3nxgdmuwqo/rio-aguacatal" target="_blank" rel="noopener noreferrer"
+                        class="podcast-button">
                         Mas informacion sobre el Rio Aguacatal
                       </a>
                     </div>
